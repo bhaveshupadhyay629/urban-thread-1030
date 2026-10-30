@@ -1,4 +1,4 @@
-import { Product } from '../data';
+import type { Product } from '../data';
 import { Plus } from 'lucide-react';
 
 interface NewArrivalsProps {

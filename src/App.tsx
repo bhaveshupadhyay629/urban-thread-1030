@@ -6,7 +6,7 @@ import { Lookbook } from './components/Lookbook';
 import { About } from './components/About';
 import { Contact } from './components/Contact';
 import { Footer } from './components/Footer';
-import { PRODUCTS, Product } from './data';
+import { PRODUCTS, type Product } from './data';
 import { X, Trash2, ShoppingBag, ArrowRight, CheckCircle2 } from 'lucide-react';
 
 export interface CartItem extends Product {
