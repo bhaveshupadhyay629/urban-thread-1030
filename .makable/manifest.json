@@ -1,5 +1,10 @@
 {
   "format": "makable-site",
   "version": 2,
-  "projectId": "4401461a-4092-455c-a3ce-a1af96d14ee3"
+  "projectId": "4401461a-4092-455c-a3ce-a1af96d14ee3",
+  "publish": {
+    "target": "github-pages",
+    "projectName": null,
+    "siteUrl": "https://bhaveshupadhyay629.github.io/urban-thread-1030/"
+  }
 }
