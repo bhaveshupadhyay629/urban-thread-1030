@@ -1,2 +1,3 @@
-# urban-thread-1030
-My website, built with makable
+# Urban Thread 1030
+
+Built with [makable](https://makable.tech).
